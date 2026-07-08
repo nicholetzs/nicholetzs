@@ -22,7 +22,7 @@ Currently studying:
 - 🤖 Machine Learning  
 - 🔭 Computational Astronomy  
 
-> “The universe is written in data. I'm learning how to read it.”
+> "The mystery of human existence lies not in just staying alive, but in finding something to live for." — The Brothers Karamazov
 
 ---
 
