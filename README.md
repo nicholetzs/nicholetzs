@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="./lightcurve_diagram.jpg" width="55%"/>
+<img src="./myLCProcessed.png" width="55%"/>
 
 </div>
 
