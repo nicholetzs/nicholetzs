@@ -18,8 +18,6 @@ My main interests lie in **Machine Learning**, **Scientific Computing** and **As
 
 Currently, I'm developing projects that combine **Artificial Intelligence**, **Data Engineering** and **Software Development** while preparing for a future Master's degree in Astronomy.
 
-Besides technology, I enjoy Russian literature, philosophy and everything that challenges the way we understand the Universe.
-
 > *"The mystery of human existence lies not in just staying alive, but in finding something to live for."*  
 > **— Fyodor Dostoevsky, The Brothers Karamazov**
 
