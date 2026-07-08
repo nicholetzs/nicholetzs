@@ -1,17 +1,26 @@
-
-<img src="./kTxx3bUqNBMNLAIWxrycJQrQJXkwKrGKqXI0b9x3WoCWeRGw94-laWejR1V1HCKzDcNdT9Ngm7w8UH9Mobwnz7LE4t_HYzxe1x5upkaUu7PEvcWT4oP0YnlMFoPqifazIpsXE1DdoQ1CwauE3NjeTHFFtgv0vPjRE0jV0dr-xIv38DCAkErUvpYcIRhE4.jpg" width="100%">
-
-
-<img src="./lightcurve_diagram.jpg" width="70%">
 <div align="center">
+
+<img src="./kTxx3bUqNBMNLAIWxrycJQrQJXkwKrGKqXI0b9x3WoCWeRGw94-laWejR1V1HCKzDcNdT9Ngm7w8UH9Mobwnz7LE4t_HYzxe1x5upkaUu7PEvcWT4oP0YnlMFoPqifazIpsXE1DdoQ1CwauE3NjeTHFFtgv0vPjRE0jV0dr-xIv38DCAkErUvpYcIRhE4.jpg" width="100%" style="border-radius: 12px;"/>
+
+<br>
 
 # 🌌 Nichole Nicolini
 
 ### Data Scientist • Developer • Machine Learning for Astronomy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=B68CFF&center=true&vCenter=true&width=900&lines=Exploring+the+Universe+through+Data;Machine+Learning+for+Astronomy;Light+Curves+%7C+Time+Series+%7C+Exoplanets;Scientific+Computing+%7C+Artificial+Intelligence;Astronomy+%7C+Data+Science" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1200&color=B68CFF&center=true&vCenter=true&width=900&lines=Exploring+the+Universe+through+Data;Machine+Learning+for+Astronomy;Light+Curves+%7C+Time+Series+%7C+Exoplanets;Scientific+Computing+%7C+Artificial+Intelligence;Astronomy+%7C+Data+Science" />
+
+<br>
+
+<img src="./lightcurve_diagram.jpg" width="55%"/>
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=2"/>
+</p>
 
 ---
 
