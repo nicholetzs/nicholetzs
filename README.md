@@ -1,3 +1,9 @@
+
+<p align="center">
+
+<img src="https://github.com/Nicholetzs/nicholetzs/blob/main/assets/lightcurve.gif"/>
+
+</p>
 <div align="center">
 
 # 🌌 Nichole Nicolini
