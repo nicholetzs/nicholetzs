@@ -4,7 +4,7 @@
 
 ### Data Scientist • Developer • Machine Learning for Astronomy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=B68CFF&center=true&vCenter=true&width=900&lines=Exploring+the+Universe+through+Data;Machine+Learning+for+Astronomy;Light+Curves+%7C+Time+Series+%7C+Exoplanets;Scientific+Computing+%7C+Artificial+Intelligence;%7C+Astronomy+%7C+Data+Science" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=B68CFF&center=true&vCenter=true&width=900&lines=Exploring+the+Universe+through+Data;Machine+Learning+for+Astronomy;Light+Curves+%7C+Time+Series+%7C+Exoplanets;Scientific+Computing+%7C+Artificial+Intelligence;%+Astronomy+%7C+Data+Science" />
 
 </div>
 
