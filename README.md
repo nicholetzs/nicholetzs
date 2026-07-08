@@ -87,7 +87,25 @@ Currently, I'm developing projects that combine **Artificial Intelligence**, **D
 
 </p>
 
----
+## 🗺️ Maps, APIs & Integrations
+
+<p align="center">
+
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-6A5ACD?style=for-the-badge&logo=googlemaps)
+![Google Cloud](https://img.shields.io/badge/Google_APIs-512DA8?style=for-the-badge&logo=googlecloud)
+
+</p>
+
+- Google Maps JavaScript API
+- Google Geocoding API
+- Google Places API
+- Route Calculation
+- Interactive Maps
+- Marker Clustering
+- Custom Map Pins
+- Geolocation
+- Spatial Visualization
+- API Integrations
 
 ## ⚙️ Backend Development
 
@@ -99,6 +117,7 @@ Currently, I'm developing projects that combine **Artificial Intelligence**, **D
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-7E57C2?style=for-the-badge&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST_APIs-8E24AA?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-5E35B1?style=for-the-badge&logo=prisma)
+
 
 </p>
 
@@ -114,8 +133,8 @@ Currently, I'm developing projects that combine **Artificial Intelligence**, **D
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-7B1FA2?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6A1B9A?style=for-the-badge&logo=bootstrap)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-5E35B1?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-673AB7?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-8E24AA?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-673AB7?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-8E24AA?style=for-the-badge&logo=css3)
 
 </p>
 
