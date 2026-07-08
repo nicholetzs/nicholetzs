@@ -2,80 +2,194 @@
 
 # 🌌 Nichole Nicolini
 
-### Data Scientist • AI for Astronomy • Computational Astrophysics
+### Data Scientist • Software Developer • Machine Learning for Astronomy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B68CFF&center=true&vCenter=true&width=700&lines=Turning+astronomical+data+into+scientific+discoveries;Machine+Learning+for+Light+Curves;Exoplanets+%E2%80%A2+Data+Science+%E2%80%A2+Russian+Literature" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=B68CFF&center=true&vCenter=true&width=900&lines=Exploring+the+Universe+through+Data;Machine+Learning+for+Astronomy;Light+Curves+%7C+Time+Series+%7C+Exoplanets;Scientific+Computing+%7C+Artificial+Intelligence;Russian+Literature+%7C+Astronomy+%7C+Data+Science" />
 
 </div>
 
 ---
 
-## 🪐 About me
+## ✨ About Me
 
-I'm a Data Scientist and amateur astronomer interested in applying **Machine Learning** to astronomical data.
+I'm a **Data Scientist** and **Software Developer** passionate about transforming complex data into meaningful knowledge.
 
-Currently studying:
+My main interests lie in **Machine Learning**, **Scientific Computing** and **Astronomy**, especially in the analysis of astronomical data, light curves and exoplanet detection.
 
-- ⭐ Light Curves  
-- 🪐 Exoplanet Detection  
-- 📈 Time Series  
-- 🤖 Machine Learning  
-- 🔭 Computational Astronomy  
+Currently, I'm developing projects that combine **Artificial Intelligence**, **Data Engineering** and **Software Development** while preparing for a future Master's degree in Astronomy.
 
-> "The mystery of human existence lies not in just staying alive, but in finding something to live for." — The Brothers Karamazov
+Besides technology, I enjoy Russian literature, philosophy and everything that challenges the way we understand the Universe.
+
+> *"The mystery of human existence lies not in just staying alive, but in finding something to live for."*  
+> **— Fyodor Dostoevsky, The Brothers Karamazov**
 
 ---
 
-## 🛠️ Technologies
+# 🚀 Tech Stack
 
-### Languages
+## 💻 Programming Languages
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=white)
+![R](https://img.shields.io/badge/R-7E57C2?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-512DA8?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-673AB7?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5E35B1?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Data Science
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7B68EE?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-BA55D3?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-663399?style=for-the-badge&logo=jupyter&logoColor=white)
+---
 
-### Web
+## 🤖 Data Science & Artificial Intelligence
 
-![React](https://img.shields.io/badge/React-9370DB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-4B0082?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-7B1FA2?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7E57C2?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-9575CD?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8E24AA?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6A1B9A?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5E35B1?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-9575CD?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-7B1FA2?style=for-the-badge&logo=pytorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-512DA8?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google_Colab-673AB7?style=for-the-badge&logo=googlecolab)
+
+</p>
+
+---
+
+## 🌌 Astronomy
+
+<p align="center">
+
+![NASA](https://img.shields.io/badge/NASA_APIs-6A5ACD?style=for-the-badge&logo=nasa&logoColor=white)
+![AAVSO](https://img.shields.io/badge/AAVSO-7E57C2?style=for-the-badge)
+![Astropy](https://img.shields.io/badge/Astropy-Learning-5E35B1?style=for-the-badge)
+![Lightkurve](https://img.shields.io/badge/Lightkurve-Learning-8E24AA?style=for-the-badge)
+![FITS](https://img.shields.io/badge/FITS-512DA8?style=for-the-badge)
+![Photometry](https://img.shields.io/badge/Photometry-673AB7?style=for-the-badge)
+![Light Curves](https://img.shields.io/badge/Light_Curves-7B1FA2?style=for-the-badge)
+![AstroImageJ](https://img.shields.io/badge/AstroImageJ-9575CD?style=for-the-badge)
+
+</p>
+
+---
+
+## 🛰️ Geospatial Analysis
+
+<p align="center">
+
+![QGIS](https://img.shields.io/badge/QGIS-7B1FA2?style=for-the-badge&logo=qgis)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-5E35B1?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-9575CD?style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/PostGIS-6A1B9A?style=for-the-badge)
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+![NodeJS](https://img.shields.io/badge/Node.js-6A5ACD?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-512DA8?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-673AB7?style=for-the-badge&logo=flask)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-7E57C2?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST_APIs-8E24AA?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-5E35B1?style=for-the-badge&logo=prisma)
+
+</p>
+
+---
+
+## 🎨 Front-end Development
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-6A5ACD?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-512DA8?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-9575CD?style=for-the-badge&logo=vite)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-7B1FA2?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6A1B9A?style=for-the-badge&logo=bootstrap)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-5E35B1?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-673AB7?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-8E24AA?style=for-the-badge&logo=css3)
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A5ACD?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-7E57C2?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-512DA8?style=for-the-badge&logo=sqlite)
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-7B1FA2?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-512DA8?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-6A5ACD?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-673AB7?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VS_Code-8E24AA?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-5E35B1?style=for-the-badge&logo=intellijidea)
+![Postman](https://img.shields.io/badge/Postman-9575CD?style=for-the-badge&logo=postman)
+![DBeaver](https://img.shields.io/badge/DBeaver-6A1B9A?style=for-the-badge)
+
+</p>
 
 ---
 
 ## 🌠 Research Interests
 
-- Exoplanet detection  
-- Astronomical pipelines  
-- Variable stars  
-- Time series classification  
-- AI for Astronomy  
-- Scientific Python  
+- 🪐 Exoplanet Detection
+- 📈 Time Series Analysis
+- 🌌 Astronomical Data Pipelines
+- 🤖 Machine Learning
+- 📊 Scientific Computing
+- ⭐ Variable Stars
+- 🔭 Photometry
+- 🛰️ Astronomical Surveys
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+- Astropy
+- Lightkurve
+- Bayesian Statistics
+- Signal Processing
+- Computational Astrophysics
+- Advanced Machine Learning
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicholetzs&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicholetzs&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholetzs&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholetzs&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌌 Quote
-
 <div align="center">
 
-*"Every star tells a story. Data helps us hear it."*
+### 🌌 *"Ad Astra per Scientiam."*
 
 </div>
