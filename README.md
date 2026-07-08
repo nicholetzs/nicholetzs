@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./kTxx3bUqNBMNLAIWxrycJQrQJXkwKrGKqXI0b9x3WoCWeRGw94-laWejR1V1HCKzDcNdT9Ngm7w8UH9Mobwnz7LE4t_HYzxe1x5upkaUu7PEvcWT4oP0YnlMFoPqifazIpsXE1DdoQ1CwauE3NjeTHFFtgv0vPjRE0jV0dr-xIv38DCAkErUvpYcIRhE4.jpg" width="100%" style="border-radius: 12px;"/>
-
 <br>
 
 # 🌌 Nichole Nicolini
