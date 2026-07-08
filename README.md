@@ -12,7 +12,7 @@
 
 ## ✨ About Me
 
-I'm a **Data Scientist** and **Software Developer** passionate about transforming complex data into meaningful knowledge.
+I'm a **Data Scientist** and **Developer** passionate about transforming complex data into meaningful knowledge.
 
 My main interests lie in **Machine Learning**, **Scientific Computing** and **Astronomy**, especially in the analysis of astronomical data, light curves and exoplanet detection.
 
