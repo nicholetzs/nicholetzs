@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./sparks.jpg" width="55%" />  # 🌌 Nichole Nicolini
+# 🌌 Nichole Nicolini
 
 ### Data Scientist • Developer • Machine Learning for Astronomy
 
