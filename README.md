@@ -14,6 +14,16 @@
 
 </div>
 
+## 🖼️ Images
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bed711f7-6327-4b60-be45-9b75e033bee3" alt="Imagem 1" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc514105-2dc0-44b5-9ffd-21b34c42b463" alt="Imagem 2" />
+</p>
+
 ---
 
 ## ✨ About Me
