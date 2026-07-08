@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./myLCProcessed.png" width="55%" # 🌌 Nichole Nicolini /> 
+<img src="./myLCProcessed.png" width="55%" />  # 🌌 Nichole Nicolini
 
 ### Data Scientist • Developer • Machine Learning for Astronomy
 
