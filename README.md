@@ -28,7 +28,7 @@ I'm a **Data Scientist** and **Developer** passionate about transforming complex
 
 My main interests lie in **Machine Learning**, **Scientific Computing** and **Astronomy**, especially in the analysis of astronomical data, light curves and exoplanet detection.
 
-Currently, I'm developing projects that combine **Artificial Intelligence**, **Data Engineering** and **Software Development** while preparing for a future Master's degree in Astronomy.
+Currently, I'm developing projects that combine **Machine Learning**, **Data Engineering** and **Software Development** while preparing for a future Master's degree in Astronomy.
 
 > *"The mystery of human existence lies not in just staying alive, but in finding something to live for."*  
 > **— Fyodor Dostoevsky, The Brothers Karamazov**
@@ -44,8 +44,6 @@ Currently, I'm developing projects that combine **Artificial Intelligence**, **D
 ![Python](https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-7E57C2?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-512DA8?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-673AB7?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5E35B1?style=for-the-badge&logo=typescript&logoColor=white)
 
 </p>
